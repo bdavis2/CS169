@@ -1,0 +1,16 @@
+python
+scala
+java
+cplusplus
+cobol
+hello
+goodbye
+syntax
+computer
+student
+professor
+business
+language
+oriented
+object
+common
